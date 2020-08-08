@@ -41,7 +41,7 @@ public class HelloWorld {
   System.out.println("Hello, fresh1");
   System.out.println("Hello, Jenkins");
   System.out.println("Hello, new");
-  System.out.println("Hello, Jenkins");
+  System.out.println("Hello, Covied");
   System.out.println("Hello, Jenkins");
   System.out.println("Hello, Jenkins");
   System.out.println("Hello, Jenkins");
